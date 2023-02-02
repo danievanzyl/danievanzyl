@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danievanzyl
 - 👀 I’m interested in ha, kubernetes, devops, golang, etl, data viz, timeseries
-- 🌱 I’m currently learning - kubernetes, terraform, ovirt, ansible
+- 🌱 I’m currently learning - kubernetes, terraform, ansible
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
